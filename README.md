@@ -11,4 +11,4 @@ The Interpretable Machine Learning (IML) framework established in the paper faci
 
 
 # Licence
-This project is licensed under the Apache License - see the ![](LICENSE) file for details
+This project is licensed under the Apache License - see the ![LICENSE](LICENSE) file for details
