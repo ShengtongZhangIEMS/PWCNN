@@ -9,6 +9,8 @@ The Interpretable Machine Learning (IML) framework established in the paper faci
 
 ![IML](IML.PNG)
 
+# Simulation Data for Training
+The training data can be access through [google drive](https://drive.google.com/drive/folders/1MvzK4RQpl1vDoKQNJpVQCY8e3Ou0fWe9?usp=sharing)
 
 # Licence
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details
