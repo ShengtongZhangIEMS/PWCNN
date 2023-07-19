@@ -1,5 +1,5 @@
 # PWCNN
-Data and codes for the paper: "Fast, Interpretable Prediction of Local Properties for Composite Materials"
+Data and codes for the paper: "Accelerated and Interpretable Prediction of Local Properties in Composites "
 
 The Pixel-Wise CNN (PWCNN) is a customized CNN model and is designed for the stress/strain field predictions on composite material microstructures. Its architecture is depicted as follows. 
 
